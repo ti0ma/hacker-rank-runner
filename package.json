@@ -1,0 +1,19 @@
+{
+  "name": "hacker-rank-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ti0ma/hacker-rank-runner.git"
+  },
+  "author": "@ti0ma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ti0ma/hacker-rank-runner/issues"
+  },
+  "homepage": "https://github.com/ti0ma/hacker-rank-runner#readme"
+}
